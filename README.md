@@ -2,8 +2,8 @@
 
 ## TODO
 
-- [ ] Deploy (questionable why this is number one)
-- [ ] Scaffold baisc UI
+- [x] Deploy (questionable why this is number one)
+- [x] Scaffold baisc UI
 - [ ] Actually set up a database
 - [ ] Attach db to UI
 - [ ] Add auth (??)
