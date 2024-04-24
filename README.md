@@ -4,8 +4,8 @@
 
 - [x] Deploy (questionable why this is number one)
 - [x] Scaffold baisc UI
-- [ ] Actually set up a database
-- [ ] Attach db to UI
+- [x] Actually set up a database
+- [x] Attach db to UI
 - [ ] Add auth (??)
 - [ ] Add image upload
 - [ ] Error management (Sentry)
